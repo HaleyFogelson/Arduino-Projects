@@ -1,3 +1,5 @@
+// This code makes a robot go straight by adjusting the power of the left and right motor based of the values the incoders counting wheel rotations get
+
 #include <CalibratedDrive.h>
 
 #define RPWR 5
