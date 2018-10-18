@@ -1,3 +1,13 @@
+/*
+Author: Haley Fogelson
+Date: November 17, 2017
+Class: Robotics
+This project uses 3 IR sensors front, right, and left facing down to keep the robot from falling off the table
+
+*/
+
+
+
 #include <PinChangeInt.h>
 #define RPWR 5
 #define lEncoder 3
