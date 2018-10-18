@@ -1,3 +1,11 @@
+/*
+Author: Haley Fogelson
+Date: October 17, 2018
+Class: CornerStone to Engineering
+
+
+*/
+
 #include <LiquidCrystal.h>
 
 #define button1 2
