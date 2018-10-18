@@ -1,3 +1,13 @@
+/*
+Author: Haley Fogelson
+Date: October 26, 2017
+Class: Robotics
+
+
+*/
+
+
+
 // This code makes a robot go straight by adjusting the power of the left and right motor based of the values the incoders counting wheel rotations get
 
 #include <CalibratedDrive.h>
