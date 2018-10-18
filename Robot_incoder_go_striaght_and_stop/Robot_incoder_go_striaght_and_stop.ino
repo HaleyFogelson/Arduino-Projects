@@ -1,3 +1,11 @@
+/*
+Author: Haley Fogelson
+Date: November 17, 2017
+Class: Robotics
+
+
+*/
+
 #include <PinChangeInt.h>
 #define RPWR 5
 #define RDIR 4
