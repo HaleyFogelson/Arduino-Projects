@@ -1,3 +1,11 @@
+/*
+Author: Haley Fogelson
+Date: Jan 25, 2018
+Class: Robotics
+
+
+*/
+
 #define FLEX_PIN A0
 #define VCC 4.98
 #define R_DIV 47500
