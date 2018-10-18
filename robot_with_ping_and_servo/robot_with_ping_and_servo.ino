@@ -1,3 +1,10 @@
+/*
+Author: Haley Fogelson
+Date: December 24, 2017
+Class: Robotics
+
+*/
+
 #include <Servo.h>
 #include <Ping.h>
 #include <Adafruit_GFX.h>
